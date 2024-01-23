@@ -1,0 +1,1 @@
+![](imgs/Docker_Data_Pipelines.png)
